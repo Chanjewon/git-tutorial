@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+    margin: 0;
+}
+h1 {
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 60px;
+    font-style: italic;
+}
+li {
+    float: left;
+    font-size: 30px;
+    
+}
+li a {
+    display: block;
+    padding: 20px;
+    background-color: green;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+li a:hover {
+  background-color: black;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: green;
+    line-height: 50px;
+}
