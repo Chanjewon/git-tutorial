@@ -44,6 +44,12 @@ p {
     width: 500px;
     
 }
-
+p1 {
+    padding: 40px;  
+    float: left;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
 
 
