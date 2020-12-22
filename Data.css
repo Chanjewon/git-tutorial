@@ -63,3 +63,10 @@ p2 {
     text-align: center;
     font-size: 30px;
 }
+p3 {
+    padding: 40px;  
+    float: left;
+    color: white;
+    text-align: left;
+    font-size: 30px;
+}
