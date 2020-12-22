@@ -51,5 +51,15 @@ p1 {
     text-align: center;
     font-size: 30px;
 }
-
-
+#Clist {
+    width: 200px;
+    height: 200px;
+    float: left
+}
+p2 {
+    padding: 40px;  
+    float: left;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
