@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: #272525;
     margin: 0;
 }
 h1 {
@@ -33,6 +33,7 @@ ul {
     background-color: green;
     line-height: 50px;
 }
+
 p {
     padding: 40px;  
     float: left;
